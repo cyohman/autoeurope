@@ -1,0 +1,16 @@
+CDG
+Mercedes,200,100
+Renault,75,25
+Kia,50,300
+LHR
+Kia,200,300
+Mercedes,50,100
+Aston Martin,1,5000
+NRT
+Mercedes,300,50
+Kia,100,200
+Subaru,75,199
+BOS
+Mercedes,100,74
+Kia,300,200
+Ford,99,75
